@@ -1,6 +1,7 @@
 # note-mog-releases
 
 **Note Mog - Quick Note Taker for Claude Code Developers**
+
 Official Note Mog releases repo for Note Mog, the quick note taker for Claude Code developers - Take notes any time, organize them automatically within your projects, and run queued up Claude Code prompts based on your todo and bug notes from the day by referencing a design document to save tokens, or by scanning your entire project for more accuracy.
 
 Intended to group together lots of small tasks and bug fixes together.  Not recommended for large feature changes.
@@ -8,10 +9,13 @@ Intended to group together lots of small tasks and bug fixes together.  Not reco
 Optionally, use for your daily tasks by creating "projects" as 
 
 **How to use**
-Ctrl + Shift + Space  ===== Take a quick note
-Ctrl + Shift + L      ===== Open Note Pad Control Panel
+
+`Ctrl + Shift + Space`  ===== Take a quick note
+
+`Ctrl + Shift + L`      ===== Open Note Pad Control Panel
 
 **Features**
+
 * Quickly pop up a light weight note taker
 * Multi-select groupings of todos, bugs, and design changes to queue up for taking action on all of them
 * Select actions such as Create/Update design document for project, complete TODOs, Fix Bugs, or Run full pipeline
