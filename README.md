@@ -27,7 +27,7 @@ Ctrl + Shift + L      ===== Open Note Pad Control Panel
 
 **Security & privacy**
 
-* Your Claude API key is saved only to a local SQLite file on your machine and encrypted at rest using Windows' Data Protection API (DPAPI), tied to your Windows user account.
 * Note Mog has no server, database, or telemetry — your key is never sent to the developer or any third party, and it is not bundled with the app.
+* Your Claude API key is saved only to a local SQLite file on your machine and encrypted at rest using Windows' Data Protection API (DPAPI), tied to your Windows user account.
 * The key is transmitted only to Anthropic (api.anthropic.com) over HTTPS, and only when you generate docs or classify a note.
 * If OS-level encryption is unavailable on your system, Note Mog falls back to base64-obfuscated storage and shows a warning in Settings so you know.
