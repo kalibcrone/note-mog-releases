@@ -9,7 +9,9 @@ Intended to group together lots of small tasks and bug fixes together.  Not reco
 Optionally, use for your daily tasks by creating "projects" as 
 
 **How to Install**
+
 Download and Simply open the .exe
+
 The app is not signed, so you may get a warning from Windows
 
 **How to use**
