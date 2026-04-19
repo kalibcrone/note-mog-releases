@@ -1,8 +1,10 @@
 **Note Mog - Quick Note Taker for Claude Code Developers**
 
-Official Note Mog releases repo for Note Mog, the quick note taker for Claude Code developers - Take notes any time, organize them automatically within your projects, and run queued up Claude Code prompts based on your todo and bug notes from the day by referencing a design document to save tokens, or by scanning your entire project for more accuracy.
+Official release repo for _Note Mog_ - Take notes and take action.
 
-Intended to group together lots of small tasks and bug fixes together.  Not recommended for large feature changes.
+_Note Mog_ allows you to quickly take notes as you work, then _Note Mog_ organizes your tasks automatically within each of your projects and lets you run queued up Claude Code prompts based on your todo and bug tasks created from your notes by referencing a design document to save tokens, or by scanning your entire project for more accuracy.
+
+Best used to group together lots of small todo tasks and bug fixes together.  Not recommended for large feature changes that require lots of back and forth iteration.
 
 Optionally, use for your daily tasks by creating "projects" as 
 
@@ -31,7 +33,6 @@ You may also get a security warning from Windows because the app is unsigned.  S
 
 
 <img width="233" height="148" alt="image" src="https://github.com/user-attachments/assets/8ccc597d-221e-49ae-b111-6744557f5db5" />
-
 
  
 **How to use**
