@@ -47,6 +47,21 @@ You may also get a security warning from Windows because the app is unsigned.  S
 * Multi-select groupings of todos, bugs, and design changes to queue up for taking action on all of them
 * Select actions such as Create/Update design document for project, complete TODOs, Fix Bugs, or Run full pipeline
 
+**Claude Skills**
+Note mog comes bundled with 6 skills that run automatically when using the Note Mog action buttons
+
+* note-generate-spec — Scans your codebase and generates (or updates) a living design document (design-spec.md)
+* note-generate-bugs — Compiles your captured bug notes into a consolidated, severity-ranked bug report
+* note-plan-todos — Groups your TODO notes into PR-sized implementation bundles ready to work through
+* note-implement-todos — Works through your planned TODO bundles and commits each one separately
+* note-fix-bugs — Reads your bug report and fixes each bug with a separate commit per fix
+* note-run-pipeline (Work in Progress) — Runs the full workflow end-to-end: spec → plan → implement → fix bugs
+
+Install them for each project
+
+<img width="427" height="113" alt="image" src="https://github.com/user-attachments/assets/db79f535-ca78-4f4e-ba7d-52a8d9949efc" />
+
+
 **Other**
 
 * Tip: When taking a note, type @project-name to write a note for your particular project
