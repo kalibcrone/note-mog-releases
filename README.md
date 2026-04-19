@@ -27,7 +27,12 @@ Move the setup exe to another folder if it doesn't open in the downloads folder.
 
 Windows may prevent the setup app from installing if you try to click it from inside the Downloads folder because the app is not signed. 
 
-You may also get a security warning from Windows.  Select **More Info** then **Run Anyway** if that happens.
+You may also get a security warning from Windows because the app is unsigned.  Select **More Info** then **Run Anyway** if that happens.
+
+
+<img width="233" height="148" alt="image" src="https://github.com/user-attachments/assets/8ccc597d-221e-49ae-b111-6744557f5db5" />
+
+
  
 **How to use**
 
