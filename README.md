@@ -1,10 +1,3 @@
-<img width="731" height="505" alt="image" src="https://github.com/user-attachments/assets/26f3f28d-6ad7-4afb-b0e0-61b770b529ad" />
-.
-<img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/a82be2b5-6d1c-480b-b884-da7d4a67d0d5" />
-.
-<img width="794" height="493" alt="image" src="https://github.com/user-attachments/assets/3032ced3-d040-464b-9bf2-f5d968f5f360" />
-
-
 **Note Mog - Quick Note Taker for Claude Code Developers**
 
 Official Note Mog releases repo for Note Mog, the quick note taker for Claude Code developers - Take notes any time, organize them automatically within your projects, and run queued up Claude Code prompts based on your todo and bug notes from the day by referencing a design document to save tokens, or by scanning your entire project for more accuracy.
@@ -13,12 +6,29 @@ Intended to group together lots of small tasks and bug fixes together.  Not reco
 
 Optionally, use for your daily tasks by creating "projects" as 
 
+--------------------------------------------------------------------
+<img width="731" height="505" alt="image" src="https://github.com/user-attachments/assets/26f3f28d-6ad7-4afb-b0e0-61b770b529ad" />
+
+--------------------------------------------------------------------
+
+<img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/a82be2b5-6d1c-480b-b884-da7d4a67d0d5" />
+
+--------------------------------------------------------------------
+
+<img width="794" height="493" alt="image" src="https://github.com/user-attachments/assets/3032ced3-d040-464b-9bf2-f5d968f5f360" />
+
+--------------------------------------------------------------------
+
 **How to Install**
 
-Download and Simply open the .exe
+Download and Simply open the setup .exe
 
-The app is not signed, so you may get a warning from Windows
+Move the setup exe to another folder if it doesn't open in the downloads folder.
 
+Windows may prevent the setup app from installing if you try to click it from inside the Downloads folder because the app is not signed. 
+
+You may also get a security warning from Windows.  Select **More Info** then **Run Anyway** if that happens.
+ 
 **How to use**
 
 `Ctrl + Shift + Space` - Take a quick note
