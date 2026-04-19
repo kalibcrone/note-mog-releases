@@ -1,4 +1,9 @@
-# note-mog-releases
+<img width="731" height="505" alt="image" src="https://github.com/user-attachments/assets/26f3f28d-6ad7-4afb-b0e0-61b770b529ad" />
+.
+<img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/a82be2b5-6d1c-480b-b884-da7d4a67d0d5" />
+.
+<img width="794" height="493" alt="image" src="https://github.com/user-attachments/assets/3032ced3-d040-464b-9bf2-f5d968f5f360" />
+
 
 **Note Mog - Quick Note Taker for Claude Code Developers**
 
