@@ -13,11 +13,11 @@ Optionally, use for your daily tasks by creating "projects" as misc life categor
 
 --------------------------------------------------------------------
 
-<img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/a82be2b5-6d1c-480b-b884-da7d4a67d0d5" />
+<img width="735" height="501" alt="image" src="https://github.com/user-attachments/assets/7289dad1-a01d-4c5f-b463-12b6d52c579e" />
 
 --------------------------------------------------------------------
 
-<img width="794" height="493" alt="image" src="https://github.com/user-attachments/assets/3032ced3-d040-464b-9bf2-f5d968f5f360" />
+<img width="735" height="517" alt="image" src="https://github.com/user-attachments/assets/a338ac75-4c11-48bc-bbf1-d94d0bafbfc1" />
 
 --------------------------------------------------------------------
 
