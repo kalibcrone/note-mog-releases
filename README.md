@@ -6,7 +6,7 @@ _Note Mog_ allows you to quickly take notes as you work, then _Note Mog_ organiz
 
 Best used to group together lots of small todo tasks and bug fixes together.  Not recommended for large feature changes that require lots of back and forth iteration.
 
-Optionally, use for your daily tasks by creating "projects" as 
+Optionally, use for your daily tasks by creating "projects" as misc life categories.
 
 --------------------------------------------------------------------
 <img width="731" height="505" alt="image" src="https://github.com/user-attachments/assets/26f3f28d-6ad7-4afb-b0e0-61b770b529ad" />
